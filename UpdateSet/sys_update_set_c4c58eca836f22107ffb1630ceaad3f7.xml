@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2025-08-29 02:54:47">
+<sys_update_set action="INSERT_OR_UPDATE">
+<application display_value="Global">global</application>
+<base_update_set display_value=""/>
+<batch_install_plan display_value=""/>
+<completed_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</completed_by>
+<completed_on>2025-08-29 02:54:03</completed_on>
+<description>Project Name: ServiceNow Integrations
+Integrated ServiceNow and JIRA with REST APIs for seamless issue synchronization. Achieved inbound integration with online test LDAP server and completed E-Bonding with another ServiceNow instance.
+GitHub URL: https://github.com/anurampalli/Data-Load-Transformation-Framework.git</description>
+<install_date/>
+<installed_from/>
+<is_default>false</is_default>
+<merged_to display_value=""/>
+<name>US ServiceNow Integration Projects</name>
+<origin_sys_id/>
+<parent display_value=""/>
+<release_date/>
+<remote_sys_id display_value=""/>
+<state>complete</state>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2025-08-25 11:22:14</sys_created_on>
+<sys_id>c4c58eca836f22107ffb1630ceaad3f7</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2025-08-29 02:54:03</sys_updated_on>
+</sys_update_set>
+</unload>
